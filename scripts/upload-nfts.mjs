@@ -13,8 +13,8 @@ const sdk = ThirdwebSDK.fromPrivateKey(process.env.PRIVATE_KEY, "goerli");
   
     try {
       await drop.createBatch([
-        "https://my-json-server.typicode.com/jarrodwatts/centralized-nft-metadata/nfts/0",
-        "https://my-json-server.typicode.com/jarrodwatts/centralized-nft-metadata/nfts/1",
+        "https://my-json-server.typicode.com/noxcusej/metamorphicwebgltest/nfts/0",
+        "https://my-json-server.typicode.com/noxcusej/metamorphicwebgltest/nfts/1",
       ]);
       console.log("uploaded all nfts");
     } catch (error) {
