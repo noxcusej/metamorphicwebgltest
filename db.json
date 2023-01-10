@@ -4,7 +4,8 @@
       "id": 0,
       "name": "WebGL Test",
       "description": "Test of Metamorphic Atemporal2",
-      "image": "https://atemporal2new.firebaseapp.com/#/web"
+      "image": "https://atemporal2new.firebaseapp.com/#/web",
+      "animation_url": "https://atemporal2new.firebaseapp.com/#/web"
     },
     {
       "id": 1,
