@@ -5,10 +5,8 @@
       "name": "WebGL Test",
       "description": "Test of Metamorphic Atemporal2",
       "image": "https://atemporal2new.firebaseapp.com/#/web",
-      "animation": "https://atemporal2new.web.app/#/choice",
-      "animation_url": "https://atemporal2new.web.app/#/choice",
-      "update": "yes"
-    }
+      "animation_url": "https://atemporal2new.firebaseapp.com/#/web"
+    },
     {
       "id": 1,
       "name": "Green Circle",
