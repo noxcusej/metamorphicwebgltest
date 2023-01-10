@@ -7,7 +7,7 @@ const sdk = ThirdwebSDK.fromPrivateKey(process.env.PRIVATE_KEY, "goerli");
 
 (async () => {
     const drop = await sdk.getContract(
-      "0x5D4aB69990Bff98e2c568eaBE4865a8FdED47051",
+      "0xF06BF09AcF7D9a0E4ae0c05a6fBEdA8ACdDEA085",
       "nft-drop"
     );
   
