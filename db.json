@@ -4,8 +4,8 @@
       "id": 0,
       "name": "WebGL Test",
       "description": "Test of Metamorphic Atemporal2",
-      "image": "https://https://i.natgeofe.com/n/e6387b23-0f68-46f3-83ea-05f336b0ac06/00000184-77c6-d1c6-a5b4-77f77d820000.jpg?w=636&h=358atemporal2new.firebaseapp.com/#/web",
-      "animation_url": "https://atemporal4-ee69b.web.app/#/web",
+      "image": "https://i.natgeofe.com/n/e6387b23-0f68-46f3-83ea-05f336b0ac06/00000184-77c6-d1c6-a5b4-77f77d820000.jpg?w=636&h=358atemporal2new.firebaseapp.com/#/web",
+      "animation_url": "http://localhost:8080/#/web",
       "update": "yes"
     },
     {
